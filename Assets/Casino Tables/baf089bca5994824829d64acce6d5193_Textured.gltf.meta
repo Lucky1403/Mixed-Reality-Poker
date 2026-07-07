@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: c501579022e0b1a40a9aeb32757298a3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\0174b3f407aa499f984c77c4f4e46077_R_CRTableLP_CRT_Wood_Metallic.png
+    assetPath: Assets\01- Casino.Tables\0174b3f407aa499f984c77c4f4e46077_R_CRTableLP_CRT_Wood_Metallic.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\04f479cb493d45f4a5c3939f274686db_R_CRTableLP_CRT_PlayField_Roughness.png
+    assetPath: Assets\01- Casino.Tables\04f479cb493d45f4a5c3939f274686db_R_CRTableLP_CRT_PlayField_Roughness.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\091504e2626145618d003dffa6e247aa_RGB_CRTableLP_CRT_PlayField_Albedo.png
+    assetPath: Assets\01- Casino.Tables\091504e2626145618d003dffa6e247aa_RGB_CRTableLP_CRT_PlayField_Albedo.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\0dd743b3b4b0452999a9f8de82a64d3e_RGB_SM_FullTable2_TablePlayField_Albedo.png
+    assetPath: Assets\01- Casino.Tables\0dd743b3b4b0452999a9f8de82a64d3e_RGB_SM_FullTable2_TablePlayField_Albedo.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\1639a8be1219409b92d0d929b1a3c593_R_HalftableLP_HalfTableInner_Metallic.png
+    assetPath: Assets\01- Casino.Tables\1639a8be1219409b92d0d929b1a3c593_R_HalftableLP_HalfTableInner_Metallic.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\19d7d0138a9e40c4a672b80103e581ae_RGB_HalftableLP_HalfTableInner_Albedo.png
+    assetPath: Assets\01- Casino.Tables\19d7d0138a9e40c4a672b80103e581ae_RGB_HalftableLP_HalfTableInner_Albedo.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\209c3e1deea744269f410bae63adbed6_N_CRTableLP_CRT_PlayField_Normal.png
+    assetPath: Assets\01- Casino.Tables\209c3e1deea744269f410bae63adbed6_N_CRTableLP_CRT_PlayField_Normal.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\22a3cfa75fee4ecda602d4ef222cb538_RGB_CRTableLP_CRT_Leather_Albedo.png
+    assetPath: Assets\01- Casino.Tables\22a3cfa75fee4ecda602d4ef222cb538_RGB_CRTableLP_CRT_Leather_Albedo.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\24edd7b838d84d71a66d08f079689b3a_RGB_CRTableLeg_LP_Material.001_Albedo.png
+    assetPath: Assets\01- Casino.Tables\24edd7b838d84d71a66d08f079689b3a_RGB_CRTableLeg_LP_Material.001_Albedo.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\42daf69ba8c04286a9f5c975bfe2b7e7_N_HalftableLP_HalfTableInner_Normal.png
+    assetPath: Assets\01- Casino.Tables\42daf69ba8c04286a9f5c975bfe2b7e7_N_HalftableLP_HalfTableInner_Normal.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\43bbcf060fa14677b7bfd3c3f4e9f82e_N_TableLeg_TableLeg_Normal.png
+    assetPath: Assets\01- Casino.Tables\43bbcf060fa14677b7bfd3c3f4e9f82e_N_TableLeg_TableLeg_Normal.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\46c00f2590d5414d8279e9bee1bf1589_R_CRTableLP_CRT_Leather_Metallic.png
+    assetPath: Assets\01- Casino.Tables\46c00f2590d5414d8279e9bee1bf1589_R_CRTableLP_CRT_Leather_Metallic.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\4975843658804b5794cebeaa38de5a6f_RGB_HalftableLP_HalfTableLeather_Albedo.png
+    assetPath: Assets\01- Casino.Tables\4975843658804b5794cebeaa38de5a6f_RGB_HalftableLP_HalfTableLeather_Albedo.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\4d35d6d080954d58b373ecd4d4474351_R_SM_FullTable2_TableLeather_Metallic.png
+    assetPath: Assets\01- Casino.Tables\4d35d6d080954d58b373ecd4d4474351_R_SM_FullTable2_TableLeather_Metallic.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\4df53a55f4df4faea1ac392097be9c49_R_TableLeg_TableLeg_Roughness.png
+    assetPath: Assets\01- Casino.Tables\4df53a55f4df4faea1ac392097be9c49_R_TableLeg_TableLeg_Roughness.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\506f9d57b7da4ee492bb24384346651e_R_HalftableLP_HalfTablePlayField_Metallic.png
+    assetPath: Assets\01- Casino.Tables\506f9d57b7da4ee492bb24384346651e_R_HalftableLP_HalfTablePlayField_Metallic.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\51fc7835f663444bb6e533b162de8917_R_SM_FullTable2_TableInnerParts_Metallic.png
+    assetPath: Assets\01- Casino.Tables\51fc7835f663444bb6e533b162de8917_R_SM_FullTable2_TableInnerParts_Metallic.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\5359e9c4d30f417d95adbcd64d3cbdb4_RGB_SM_FullTable2_TableInnerParts_Albedo.png
+    assetPath: Assets\01- Casino.Tables\5359e9c4d30f417d95adbcd64d3cbdb4_RGB_SM_FullTable2_TableInnerParts_Albedo.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\57e064c556fe4a1597dd44a15653e09c_R_CRTableLeg_LP_Material.001_Metallic.png
+    assetPath: Assets\01- Casino.Tables\57e064c556fe4a1597dd44a15653e09c_R_CRTableLeg_LP_Material.001_Metallic.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\586dd745401e46c5b0a9c6289eff7068_N_HalftableLP_HalfTableLeather_Normal.png
+    assetPath: Assets\01- Casino.Tables\586dd745401e46c5b0a9c6289eff7068_N_HalftableLP_HalfTableLeather_Normal.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\6357726d159b447e9f53b46812d28d1d_R_CRTableLP_CRT_Leather_Roughness.png
+    assetPath: Assets\01- Casino.Tables\6357726d159b447e9f53b46812d28d1d_R_CRTableLP_CRT_Leather_Roughness.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\681e29d7b5114a8facc964a1fce0132b_R_CRTableLeg_LP_Material.001_Roughness.png
+    assetPath: Assets\01- Casino.Tables\681e29d7b5114a8facc964a1fce0132b_R_CRTableLeg_LP_Material.001_Roughness.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\6e9ada0df15145c3bd633d0aad3b34fc_RGB_CRTableLP_CRT_Wood_Albedo.png
+    assetPath: Assets\01- Casino.Tables\6e9ada0df15145c3bd633d0aad3b34fc_RGB_CRTableLP_CRT_Wood_Albedo.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\7d6a38e761b542288cb1baf81067a7f5_N_SM_FullTable2_TableInnerParts_Normal.png
+    assetPath: Assets\01- Casino.Tables\7d6a38e761b542288cb1baf81067a7f5_N_SM_FullTable2_TableInnerParts_Normal.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\83e27eeb08e94d8b9b25bf600309e033_R_SM_FullTable2_TableLeather_Roughness.png
+    assetPath: Assets\01- Casino.Tables\83e27eeb08e94d8b9b25bf600309e033_R_SM_FullTable2_TableLeather_Roughness.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\8432dbbc92c443e5b84d041ed4b76bbc_R_HalftableLP_HalfTablePlayField_Roughness.png
+    assetPath: Assets\01- Casino.Tables\8432dbbc92c443e5b84d041ed4b76bbc_R_HalftableLP_HalfTablePlayField_Roughness.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\98b04cd45f534ce9bceae4aecaae27e9_R_CRTableLP_CRT_PlayField_Metallic.png
+    assetPath: Assets\01- Casino.Tables\98b04cd45f534ce9bceae4aecaae27e9_R_CRTableLP_CRT_PlayField_Metallic.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\9e3a8a826abb4778a7fbc20839478fc7_R_SM_FullTable2_TablePlayField_Metallic.png
+    assetPath: Assets\01- Casino.Tables\9e3a8a826abb4778a7fbc20839478fc7_R_SM_FullTable2_TablePlayField_Metallic.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\a4de412f589d484c837ca724c82df595_N_CRTableLP_CRT_Leather_Normal.png
+    assetPath: Assets\01- Casino.Tables\a4de412f589d484c837ca724c82df595_N_CRTableLP_CRT_Leather_Normal.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\a59adba120204c69a06fdb5c8d325659_RGB_SM_FullTable2_TableLeather_Albedo.png
+    assetPath: Assets\01- Casino.Tables\a59adba120204c69a06fdb5c8d325659_RGB_SM_FullTable2_TableLeather_Albedo.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\bbf0a49c291943d7814ec4e81150d6f0_R_CRTableLP_CRT_Wood_Roughness.png
+    assetPath: Assets\01- Casino.Tables\bbf0a49c291943d7814ec4e81150d6f0_R_CRTableLP_CRT_Wood_Roughness.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\c2dc8b8c09fa44d2814538ee77caea9f_RGB_HalftableLP_HalfTablePlayField_Albedo.png
+    assetPath: Assets\01- Casino.Tables\c2dc8b8c09fa44d2814538ee77caea9f_RGB_HalftableLP_HalfTablePlayField_Albedo.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\c335abd887844a608c55dfe9a9fc28a6_R_HalftableLP_HalfTableLeather_Metallic.png
+    assetPath: Assets\01- Casino.Tables\c335abd887844a608c55dfe9a9fc28a6_R_HalftableLP_HalfTableLeather_Metallic.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\c505b1f27cc24e679154abe5afb10925_N_CRTableLP_CRT_Wood_Normal.png
+    assetPath: Assets\01- Casino.Tables\c505b1f27cc24e679154abe5afb10925_N_CRTableLP_CRT_Wood_Normal.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\cbec9fc65346429b8d519163a86e7e83_R_SM_FullTable2_TablePlayField_Roughness.png
+    assetPath: Assets\01- Casino.Tables\cbec9fc65346429b8d519163a86e7e83_R_SM_FullTable2_TablePlayField_Roughness.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\cc7cce12348c48619074f0b6199ac111_N_CRTableLeg_LP_Material.001_Normal.png
+    assetPath: Assets\01- Casino.Tables\cc7cce12348c48619074f0b6199ac111_N_CRTableLeg_LP_Material.001_Normal.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\cec57e61f01c4d3696208d6e2f524af0_R_SM_FullTable2_TableInnerParts_Roughness.png
+    assetPath: Assets\01- Casino.Tables\cec57e61f01c4d3696208d6e2f524af0_R_SM_FullTable2_TableInnerParts_Roughness.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\d3e4335758f6433288bb35a59521c673_N_HalftableLP_HalfTablePlayField_Normal.png
+    assetPath: Assets\01- Casino.Tables\d3e4335758f6433288bb35a59521c673_N_HalftableLP_HalfTablePlayField_Normal.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\d6a66c543a3e4b2a8987f0f9b7c9579a_RGB_TableLeg_TableLeg_Albedo.png
+    assetPath: Assets\01- Casino.Tables\d6a66c543a3e4b2a8987f0f9b7c9579a_RGB_TableLeg_TableLeg_Albedo.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\de950f81d1e74eb58b52613ab793b71b_R_TableLeg_TableLeg_Metallic.png
+    assetPath: Assets\01- Casino.Tables\de950f81d1e74eb58b52613ab793b71b_R_TableLeg_TableLeg_Metallic.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\e4ac0f85a609424db068be9ed16060a3_N_SM_FullTable2_TableLeather_Normal.png
+    assetPath: Assets\01- Casino.Tables\e4ac0f85a609424db068be9ed16060a3_N_SM_FullTable2_TableLeather_Normal.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\e6db4a7481814b7d9773a8c076b3b428_N_SM_FullTable2_TablePlayField_Normal.png
+    assetPath: Assets\01- Casino.Tables\e6db4a7481814b7d9773a8c076b3b428_N_SM_FullTable2_TablePlayField_Normal.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\fc5f691d77e744bca1a56a78f99a2e60_R_HalftableLP_HalfTableLeather_Roughness.png
+    assetPath: Assets\01- Casino.Tables\fc5f691d77e744bca1a56a78f99a2e60_R_HalftableLP_HalfTableLeather_Roughness.png
+  - type: 1
+    originalUri: Assets\01- Casino.Tables\fd60196380114709bae4c8e0bd8afdda_R_HalftableLP_HalfTableInner_Roughness.png
+    assetPath: Assets\01- Casino.Tables\fd60196380114709bae4c8e0bd8afdda_R_HalftableLP_HalfTableInner_Roughness.png
+  reportItems:
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
